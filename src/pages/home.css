@@ -1,0 +1,8 @@
+.App{
+    text-align: center;
+    border: 2px solid red;
+    width: 50%;
+    align-items: center;
+    margin: auto;
+    background-color: silver;
+}
